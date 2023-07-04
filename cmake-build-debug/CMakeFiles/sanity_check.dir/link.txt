@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/sanity_check.dir/db/sanity_check.cc.o  -o sanity_check  -Wl,-rpath,/usr/local/lib libleveldbd.a -lpthread /usr/local/lib/libpmem.so /usr/local/lib/libpmemcto.so /usr/local/lib/libpmemobj.so /usr/local/lib/libpmemlog.so /usr/local/lib/libvmem.so 
